@@ -1,0 +1,25 @@
+# Secrets
+config.local.php
+
+# Dependencies
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Local tooling
+mise.toml
+skills-lock.json
+
+# Claude Code
+.agents/
+.claude/
